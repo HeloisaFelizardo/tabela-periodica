@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	font-size: 16px;
+	font-family: Roboto, system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+	color: #0d0d0d;
+}
+.container {
+	overflow-x: auto;
+}
+h1 {
+	text-align: center;
+	font-size: 2.5rem;
+	margin: 2rem;
+}
+table {
+	margin: 2rem auto;
+}
+
+td {
+	border: 1px solid grey;
+	padding: 3px;
+}
+
+.vazio {
+	border: none;
+}
+.numero {
+	font-size: 11px;
+}
+.simbolo {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.nome {
+	text-align: center;
+	font-size: 12px;
+}
+.verde {
+	background-color: #a1d344;
+}
+.laranja {
+	background-color: #f1b200;
+}
+.amarelo {
+	background-color: #eada00;
+}
+.rosa {
+	background-color: #eb8e8e;
+}
+.azul-claro {
+	background-color: #a2c7d3;
+}
+.azul-esverdeado-escuro {
+	background-color: #4db6ac;
+}
+.azul-esverdeado {
+	background-color: #90e3e9;
+}
+.azul {
+	background-color: #70cbeb;
+}
+.azul-escuro {
+	background-color: #3d9ee3;
+}
+.lilas {
+	background-color: #dcadd6;
+}
+#segunda-tabela {
+	width: 900px;
+	border: 1px solid;
+}
+#segunda-tabela td {
+	border: none;
+}
+.legenda {
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-right: 5px;
+}
