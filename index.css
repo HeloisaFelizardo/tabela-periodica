@@ -40,6 +40,9 @@ td {
 	text-align: center;
 	font-size: 12px;
 }
+.separador {
+	height: 30px;
+}
 .verde {
 	background-color: #a1d344;
 }
